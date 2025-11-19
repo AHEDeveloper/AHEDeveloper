@@ -1,6 +1,13 @@
 # من کی ام ؟🫡
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 <h2 align="center">سلام من امیرحسین اسماعیلی هستم👋</h2>
-<p>
-  من برنامه نویس فول استک هستم❤️ بکند با لاراول😍 و فرانت با لایووایر😁 و عاشق کد نویسی حرفه ای😎
+<p align="center">
+  من برنامه نویس فول استک هستم بکند با لاراول😉 و فرانت با لایووایر😁 و عاشق کد نویسی حرفه ای😎
 </p>
+
+<h3 align='right'>ابزار هایی که استفاده میکنم👊</h3>
+
+![laravel](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![laravel](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![laravel](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
