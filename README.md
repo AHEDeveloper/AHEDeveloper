@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=D10800&width=435&lines=Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![baner](https://capsule-render.vercel.app/api?type=rounded&height=140&color=A30600&text=AHEDeveloper&reversal=true&textBg=false&rotate=5&animation=twinkling)
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 <p>
@@ -10,3 +10,10 @@
 </p>
 <h3>🔧 &nbsp; My skills</h3>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHEDeveloper&theme=aura)
