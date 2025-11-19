@@ -15,3 +15,6 @@
 <a href="https://instagram.com">
   <img src="https://github.com/AHEDeveloper/AHEDeveloper/blob/main/icons8-instagram-logo-96.png" width="50px" height="50px" align="left" />
 </a>
+<a href="https://telegram.com">
+  <img src="https://github.com/AHEDeveloper/AHEDeveloper/blob/main/icons8-telegram-96.png" with="50px" height="50px" align="left" />
+</a>
