@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=D10800&width=435&lines=Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![baner](https://capsule-render.vercel.app/api?type=rounded&height=100&color=AD0400&text=AHEDeveloper&reversal=true&textBg=false&rotate=0&animation=blinking&fontSize=45)
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 <p>
