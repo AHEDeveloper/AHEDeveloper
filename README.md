@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=D10800&width=435&lines=Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+![baner](https://capsule-render.vercel.app/api?type=rounded&height=100&color=AD0400&text=AHEDeveloper&reversal=true&textBg=false&rotate=0&animation=blinking&fontSize=45)
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 <p>
@@ -16,4 +16,28 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHEDeveloper&theme=aura)
+<h3>📞 &nbsp; contact me</h3>
+
+<a href="https://instagram.com/rad_front">
+ <img width="50px" height="50px" align="left" src="https://github.com/AHEDeveloper/AHEDeveloper/blob/main/icons8-instagram-logo-96.png" alt="Instagram" />
+</a>
+
+<a href="https://t.me/aminkhoy78">
+<img width="50px" height="50px"  align="left" src="https://github.com/AHEDeveloper/AHEDeveloper/blob/main/icons8-telegram-96.png" alt="Telegram" />
+</a>
+
+<br/>
+
+<a align="left"> 
+  
+  ![test](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHEDeveloper&theme=aura)
+</a>
+
+
+
+
+
+
+
+
+
