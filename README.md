@@ -19,11 +19,11 @@
 
 <h3>📞 &nbsp; contact me</h3>
 
-<a href="https://instagram.com/rad_front">
+<a href="https://www.instagram.com/esmaili___2005">
  <img width="50px" height="50px" align="left" src="https://github.com/AHEDeveloper/AHEDeveloper/blob/main/icons8-instagram-logo-96.png" alt="Instagram" />
 </a>
 
-<a href="https://t.me/aminkhoy78">
+<a href="https://t.me/AHEDeveloper">
 <img width="50px" height="50px"  align="left" src="https://github.com/AHEDeveloper/AHEDeveloper/blob/main/icons8-telegram-96.png" alt="Telegram" />
 </a>
 
